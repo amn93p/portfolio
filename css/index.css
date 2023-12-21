@@ -1,0 +1,14 @@
+body {
+	background-color: #2f322c;
+    background-image: url("../img/1512.jpg");
+    background-size: cover;
+}
+.text_stroke {
+	font-size: 2em;
+	-webkit-text-stroke: 1px #000000;
+}
+
+.hoover:hover {
+	transition-duration: 0.5s;
+	margin-top: 10px;
+}
